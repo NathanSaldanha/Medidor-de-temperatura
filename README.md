@@ -1,2 +1,2 @@
 # Medidor-de-temperatura
-Utilizando de DHT22
+Utilizando DHT22
